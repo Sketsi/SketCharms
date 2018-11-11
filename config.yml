@@ -1,0 +1,36 @@
+#########################################
+#      Charm Effects Configuration      #
+#    Version:                   1.00    #
+#    Discord:            Sketsi#6037    #
+#########################################
+
+# What do you want the name of the plugin to show up as in chat?
+Prefix: 'Charm Effects'
+
+# Should the charm be enabled or disabled?
+# True - Enabled
+# False - Disabled
+
+Charms:
+  # Increases jump height and reduces fall damage. Jump 3
+  jump: True
+  # Grants Invisibility.
+  invisibility: True
+  # Immunity to fire, etc.
+  fireresistance: True
+  # Restores hunger and saturation.
+  saturation: True
+  # Can increase chances of high-quality and more loot.
+  luck: True
+  # Regenerates health over time.
+  regeneration: True
+  # Reduces most damage.
+  resistance: True
+  # Decreases falling speed and negates fall damage.
+  slowfall: true
+  # Increases walking and swimming speed.
+  swiftness: true
+  # Increases melee damage.
+  strength: true
+  # Prevents Drowning.
+  waterbreathing: true

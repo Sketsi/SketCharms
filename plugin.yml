@@ -1,0 +1,21 @@
+version: 1.00
+name: Charm_Effects
+main: com.sketsi.charm.CharmMain
+author: Sketsi
+description: Holding certain items will give you a potion effect.
+commands:  
+  give:
+    aliases: [scegive]
+    description: Give yourself or another player a charm.
+  help:
+    aliases: [scehelp]
+    description: Displays list of commands.
+  list:
+    aliases: [scelist]
+    description: List of charms.
+  info:
+    aliases: [sceinfo]
+    description: Information regarding the charm.
+  reload:
+    aliases: [scereload]
+    description: Reloads the plugin.
